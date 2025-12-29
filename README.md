@@ -2,6 +2,13 @@
 
 本接口项目的技术选型：Python+Flask+MySQL+Redis，通过 Python+Falsk 来开发接口，使用 MySQL 来存储用户信息，使用 Redis 用于存储token，目前为纯后端接口，暂无前端界面，可通过 Postman、Jmeter、Fiddler 等工具访问请求接口。
 
+## 项目说明
+```
+1、此项目的源码地址：https://github.com/jinjiacheng2018/flaskDemo
+2、自动化测试框架源码地址：https://github.com/jinjiacheng2018/pytestDemo
+3、说明：此项目是为了给自动化测试框架项目做的后端接口请求的服务。
+```
+
 ## 项目部署
 
 首先，下载项目源码后，在根目录下找到 requirements.txt 文件，然后通过 pip 工具安装 requirements.txt 依赖，执行命令：
